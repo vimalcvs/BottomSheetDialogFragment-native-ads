@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#448AFF</color>
+    <color name="purple_500">#448AFF</color>
+    <color name="purple_700">#448AFF</color>
+
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#090909</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="exitBgColor">#FDFDFE</color>
+    <color name="exitBtBgColor">#ECEFF6</color>
+    <color name="exitBtTextColor">#72767B</color>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <com.google.android.ads.nativetemplates.TemplateView
+        android:id="@+id/ad_template"
+        android:padding="15dp"
+        app:gnt_template_type="@layout/gnt_medium_template_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_exit"
+        android:background="@drawable/bg_exit_bt"
+        android:layout_width="match_parent"
+        android:text="@string/tap_again_to_exit"
+        android:textAllCaps="false"
+        android:textColor="@color/exitBtTextColor"
+        android:layout_height="wrap_content"
+        android:foreground="?selectableItemBackgroundBorderless"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
