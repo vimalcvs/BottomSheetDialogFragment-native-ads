@@ -1,2 +1,2 @@
 # Bottom Sheet Dialog Fragment Exit Native ads
- ![Alt text](demo.gif?raw=true "Bottom Sheet Dialog Fragment Exit Native ads")
+<img src="demo.gif" width="auto" height="100">
